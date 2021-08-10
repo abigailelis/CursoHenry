@@ -1,0 +1,28 @@
+.cabecera{
+    display: flex;
+    border: gray 1px solid;
+    padding: 10px;
+    justify-content: space-between;
+    position:relative;
+}
+
+#img{
+    height: 150px;
+    width: 200px;
+    justify-content:flex-start;
+}
+#tituloClass{
+    display: inline;
+    justify-content: center;
+    padding-top: 10px;
+}
+#spanId{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 200px;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+
+

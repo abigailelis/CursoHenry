@@ -1,0 +1,36 @@
+body{
+    background-image: url('./imagen/fondo2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#canelones{
+    width: 400px;
+}
+
+#fideos{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+    background-color:whitesmoke;
+    padding: 50px;
+    border: lightslategrey 1px solid;
+    
+}
+
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divClass {
+    text-align: center;
+
+}
